@@ -52,3 +52,13 @@ First run the api once, then run the website in visual studio, the rest is worki
 
 #### Credentials
 ![](images/Credentials.PNG)
+
+#### User Profile
+![](images/userprofile.PNG)
+
+![](images/userprofile2.PNG)
+
+#### Accounts
+![](images/Account.PNG)
+
+![](images/Account2.PNG)
