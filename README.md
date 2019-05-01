@@ -43,9 +43,9 @@ page will start at : http://localhost:58891/Login, use any of the credentials pr
 
 To Update a profile simply fill in the required fields and hit the update button!
 
-##3.0 How to Run the Application
+## 3.0 How to Run the Application
 
 First run the api once, then run the website in visual studio, the rest is working fine.
 
-##Screen shots of the app running!
+## Screen shots of the app running!
 ![](images/LoginScreen.png)
