@@ -49,3 +49,6 @@ First run the api once, then run the website in visual studio, the rest is worki
 
 ## Screen shots of the app running!
 ![](images/LoginScreen.PNG)
+
+#### Credentials
+![](images/Credentials.PNG)
