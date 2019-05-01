@@ -62,3 +62,16 @@ First run the api once, then run the website in visual studio, the rest is worki
 ![](images/Account.PNG)
 
 ![](images/Account2.PNG)
+
+
+#### API Endpoints
+![](images/profile.PNG)
+
+![](images/apiaccount.PNG)
+
+![](images/checking.PNG)
+
+![](images/loan.PNG)
+
+![](images/certificate.PNG)
+
