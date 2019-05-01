@@ -48,4 +48,4 @@ To Update a profile simply fill in the required fields and hit the update button
 First run the api once, then run the website in visual studio, the rest is working fine.
 
 ## Screen shots of the app running!
-![](images/LoginScreen.png)
+![](images/LoginScreen.PNG)
